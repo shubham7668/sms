@@ -2,5 +2,5 @@
 School Lanagement System using Laravel
 
 Login credentials
-username:
+username:cj
 password:cj
